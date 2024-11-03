@@ -1,30 +1,31 @@
+![IMG-20241103-WA0012](https://github.com/user-attachments/assets/72506012-30a1-47f6-9853-60f78bdaa363)
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Mood mirror] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Buhahahahaha]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Basil Eliyas] - [College of engineering Munnar]
+- Member 2: [Jelit Joseph] - [College of engineering Munnar]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[as the name suggests a website that reply to your moods with funny gifs and misic that sinks to the mood]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[depressing mood swings]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[ an interactive website that gives funny gifs and relatable music]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [CSS, javascript, HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
